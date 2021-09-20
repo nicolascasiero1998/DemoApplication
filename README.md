@@ -2,6 +2,7 @@
 
 Requirements:
 -JDK> = 1.8
+
 -Maven> = 3.8.2
 
 1)Download the zip version of the project

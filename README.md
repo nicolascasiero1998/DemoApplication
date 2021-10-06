@@ -5,11 +5,11 @@ Requirements:
 
 -Maven> = 3.8.2
 
-1)Download the zip version of the project
-2)Extract the project to another folder
-3)cd DemoApplication-master/DemoApplication
-4)Run the compile command: -mvn package
-5)Launch the execution command: -mvn exec:java -Dexec.mainClass=net.codejava.DemoApp
+1)Download the zip version of the project   
+2)Extract the project to another folder   
+3)cd DemoApplication-master/DemoApplication   
+4)Run the compile command: -mvn package   
+5)Launch the execution command: -mvn exec:java -Dexec.mainClass=net.codejava.DemoApp    
 
 
 🅴🅽🅹🅾🆈 🆃🅷🅴 🅶🅰🅼🅴!
